@@ -1,16 +1,31 @@
 ## Hi there 👋
 
-<!--
-**abdurrehman46/abdurrehman46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Abdur Rehman
 
-Here are some ideas to get you started:
+🎓 BS Information Technology (3rd Semester)  
+💻 Learning Web Development & Git/GitHub  
+🌱 Currently focusing on HTML, CSS, and Git  
+📍 Pakistan  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills
+- HTML5  
+- CSS3  
+- Git & GitHub  
+- Linux (Ubuntu)
+
+---
+
+## 📚 Currently Learning
+- JavaScript
+- Responsive Web Design  
+- Git workflows
+
+---
+## 📌 Projects
+- 🌐 Personal Portfolio Website  
+
+
+## 📫 Contact Me
+- GitHub: https://github.com/abdurrehman46
