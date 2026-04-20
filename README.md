@@ -2,23 +2,24 @@
 
 # 👋 Hi, I'm Abdur Rehman
 
-🎓 BS Information Technology (3rd Semester)  
+🎓 BS Information Technology (4th Semester)  
 💻 Learning Web Development & Git/GitHub  
-🌱 Currently focusing on HTML, CSS, and Git  
+🌱 Currently focusing on HTML, CSS, javascript and Git  
 📍 Pakistan  
 
 ---
 
 ## 🛠️ Skills
 - HTML5  
-- CSS3  
+- CSS3
+- Javascript 
 - Git & GitHub  
 - Linux (Ubuntu)
 
 ---
 
 ## 📚 Currently Learning
-- JavaScript
+- react.js
 - Responsive Web Design  
 - Git workflows
 
