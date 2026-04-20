@@ -82,5 +82,5 @@ I enjoy building real-world frontend projects and improving my coding skills by 
 ## 📫 Contact Me  
 
 GitHub: https://github.com/abdurrehman46  
-LinkedIn: (Add later)  
-Email: (Optional — add if you want)   
+LinkedIn: https://www.linkedin.com/in/abdur-rehman-161b8039b 
+Email: abdur.rehman4658@gmail.com   
