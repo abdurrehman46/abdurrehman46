@@ -1,32 +1,62 @@
-## Hi there 👋
+Hi there 👋  
 
-# 👋 Hi, I'm Abdur Rehman
+# 👋 Hi, I'm Abdur Rehman  
 
-🎓 BS Information Technology (4th Semester)  
-💻 Learning Web Development & Git/GitHub  
-🌱 Currently focusing on HTML, CSS, javascript and Git  
+🎓 **BS Information Technology Student (4th Semester)**  
+🏫 University of Gujrat (UOG)  
 📍 Pakistan  
 
----
+💻 I am a passionate IT student currently learning **Web Development** and **Git/GitHub**.  
+I enjoy building real-world frontend projects and improving my coding skills by practicing modern web technologies.
 
-## 🛠️ Skills
+🌱 **Currently Focusing On:**  
 - HTML5  
-- CSS3
-- Javascript 
+- CSS3  
+- JavaScript  
 - Git & GitHub  
-- Linux (Ubuntu)
+- Frontend Project Development  
 
----
+🛠️ **Skills**  
+- HTML5  
+- CSS3  
+- JavaScript  
+- Git & GitHub  
+- Linux (Ubuntu)  
+- Basic Responsive Design  
+- Flexbox Layout  
+- Website Layout Design  
 
-## 📚 Currently Learning
-- react.js
+📚 **Currently Learning**  
+- React.js  
 - Responsive Web Design  
-- Git workflows
+- Git Workflows  
+- UI Design Best Practices  
 
----
-## 📌 Projects
+🎯 **Career Goals**  
+- Become a professional **Full-Stack Web Developer**  
+- Gain real-world internship experience  
+- Learn Cloud Computing technologies  
+- Build scalable and modern web applications  
+
+📌 **Projects**  
 - 🌐 Personal Portfolio Website  
+- 🖥️ Microsoft Website Clone  
+- 🏛️ UOG Website Clone  
+- 📋 To-Do List Web App (Planned)  
 
+🏆 **Strengths**  
+- Fast learner and consistent practice  
+- Strong interest in problem solving  
+- Good understanding of basic web layouts  
+- Focused on improving coding skills daily  
 
-## 📫 Contact Me
-- GitHub: https://github.com/abdurrehman46
+📈 **What I Am Working On Now**  
+- Building frontend clone projects  
+- Improving GitHub profile  
+- Practicing responsive layouts  
+- Learning modern JavaScript  
+
+📫 **Contact Me**  
+GitHub: https://github.com/abdurrehman46  
+LinkedIn: (Add later)  
+Email: (Optional — add if you want) 
