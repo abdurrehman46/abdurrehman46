@@ -30,7 +30,7 @@ I enjoy building real-world frontend projects and improving my coding skills by 
 - Linux (Ubuntu)  
 - Basic Responsive Design  
 - Flexbox Layout  
-- Website Layout Design  
+- Website Layout Design 
 
 ---
 
