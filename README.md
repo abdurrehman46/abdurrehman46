@@ -17,7 +17,8 @@ I enjoy building real-world frontend projects and improving my coding skills by 
 - CSS3  
 - JavaScript  
 - Git & GitHub  
-- Frontend Project Development  
+- Frontend Project Development
+- Web Development
 
 ---
 
